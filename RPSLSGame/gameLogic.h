@@ -1,0 +1,1 @@
+void playGame(int userInput, int computerInput);
